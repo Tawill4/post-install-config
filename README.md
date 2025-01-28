@@ -22,11 +22,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure roles within the admin panel
+- Configure Departments within the admin panel
+- Configure Teams within the admin panel
+- Change settings to allow anyone to create tickets / Require registration and login to create tickets
+- Create / Configure agents to work tickets
+- Assign created agents to different departments that were created
+- From within the agent panel, create Users or "employees" that will be creating tickets
+- From back within the admin panel, create SLA plans (Sev-A, Sev-B, and Sev-C)
+- Assign priority and grace period for SLA plans
+- Create Help topics for the Users / Employees to choose when creating a ticket
+- Assigning SLA plans to the Help topics.
 
 <h2>Configuration Steps</h2>
 
